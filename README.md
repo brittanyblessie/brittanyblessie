@@ -1,6 +1,6 @@
 ## Hi, I'm Brittany
 
-I work in aviation analytics and safety at Joby Aviation in Santa Cruz, and I'm finishing my MS in Data Science at Bellevue University.
+I work in aviation analytics and safety, and I'm finishing my MS in Data Science at Bellevue University.
 
 I like working at the intersection of data and the physical world, especially environmental and ocean systems and aviation. I volunteer with NOAA at the Monterey Bay National Marine Sanctuary, and a lot of what I build comes out of those interests.
 
