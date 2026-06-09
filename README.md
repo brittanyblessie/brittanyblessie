@@ -8,6 +8,7 @@ This is where I keep my coursework, projects, and the data work I build along th
 
 ### What I'm working on
 - A California coastal monitoring pipeline that joins CalCOFI, buoy, and weather data by location
+- Exploratory analysis of US aviation accident and fatality trends using NTSB data
 - Coursework projects in data wrangling, exploration, and analysis for my MS program
 
 ### Tools I use
