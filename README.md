@@ -14,4 +14,4 @@ This is where I keep my coursework, projects, and the data work I build along th
 Python, pandas, R, SQL, Jupyter, Git
 
 ### Find me
-LinkedIn: [Brittany Blessie]([linkedin.com/in/brittany-blessie-7588519a](https://www.linkedin.com/in/brittany-blessie-7588519a/))
+LinkedIn: [Brittany Blessie](https://www.linkedin.com/in/brittany-blessie-7588519a/)
